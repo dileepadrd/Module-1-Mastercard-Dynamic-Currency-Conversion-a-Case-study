@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-- 1. [Overview and Origin](#OverviewandOrigin)
-- 2. [The Scope of This Document](#TheScopeofThisDocument)
-- 3. [Business Activities](#BusinessActivities)
-  - 3.1. [The market share](#Themarketshare)
-  - 3.2. [Current Competitive Advantages](#CurrentCompetitiveAdvantages)
-  - 3.3. [Current Tech Stack](#CurrentTechStack)
-- 4. [Landscape](#Landscape)
-  - 4.1. [Competitors](#Competitors)
-- 5. [Results](#Results)
-- 6. [Recommendation](#Recommendation)
-- 7. [References](#References)
+* 1. [Overview and Origin](#OverviewandOrigin)
+* 2. [The Scope of This Document](#TheScopeofThisDocument)
+* 3. [Business Activities](#BusinessActivities)
+  * 3.1. [The market share](#Themarketshare)
+  * 3.2. [Current Competitive Advantages](#CurrentCompetitiveAdvantages)
+  * 3.3. [Current Tech Stack](#CurrentTechStack)
+* 4. [Landscape](#Landscape)
+  * 4.1. [Competitors](#Competitors)
+* 5. [Results](#Results)
+* 6. [Recommendation](#Recommendation)
+* 7. [References](#References)
 
 ## 1. <a name='OverviewandOrigin'></a>Overview and Origin
 
